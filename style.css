@@ -1,0 +1,48 @@
+#label
+{
+    display: inline;
+    font-family: impact;
+    font-size: 30px;
+    color: rgb(0, 255, 42);
+}
+
+#typeboxA
+{
+    display: inline;
+    padding-top : 3px;
+    height: 17px;
+    width: 100px;
+    font-family: impact;
+    font-size: 22px;
+    color: rgb(0, 0, 0);
+}
+
+#typeboxB
+{
+    display: inline;
+    padding-top : 3px;
+    height: 17px;
+    width: 100px;
+    font-family: impact;
+    font-size: 22px;
+    color: rgb(0, 0, 0);
+}
+
+
+#answer
+{
+    display: inline;
+    font-family: impact;
+    font-size: 30px;
+}
+
+#answerbtn
+{
+    display: block;
+    font-size: 19px;
+    background-color: aqua;
+    border-radius: 6px;
+    font-family: impact;
+    width: 110px;
+    height: 40px;
+}
